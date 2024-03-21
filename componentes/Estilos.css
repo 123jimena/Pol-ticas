@@ -1,0 +1,30 @@
+.container {
+    margin: 20px;
+  }
+  
+  .title {
+    color: #3f51b5;
+    text-align: center;
+  }
+  
+  .description {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .subtitle {
+    margin-top: 30px;
+    color: #ff5722;
+  }
+  
+  .snack-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .flavor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
